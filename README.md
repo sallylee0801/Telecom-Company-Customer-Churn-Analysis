@@ -8,7 +8,7 @@ Affiliation: The University of Chicago
 
 The README contains only a brief overview of our goals, investigation process, analysis, and recommendations.
 
-For detailed documentation/analysis/findings, please refer to our [report]
+For detailed documentation/analysis/findings, please refer to our [report](https://github.com/sallylee0801/Telecom-Company-Customer-Churn-Analysis/blob/main/Telecommunication%20Company%E2%80%99s%20Customer%20Churn%20Analysis.pdf)
 
 ## Business Objective
 We aim to leverage the customer churn data to explore the factors influencing customer churn in the telecommunications industry. By examining the association between monthly charges, payment methods, and churn status, the objective is to develop targeted pricing and retention strategies to reduce churn rates, enhance customer satisfaction, and drive sustainable business growth.
